@@ -12,7 +12,7 @@ Luego de clonar el proyecto, dentro del directorio abre una terminal y haz lo si
 npm install
 npm run start
 ```
-
+Para acceder al sitio de la revisión y comprobar que todo esté en orden, deberá dirigirse a [http://localhost:3000/](http://localhost:3000/).
 
 ### 🖐 Requisitos
 A continuación se listan los requisitos de instalación:
