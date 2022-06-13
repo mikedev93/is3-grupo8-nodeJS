@@ -1,0 +1,23 @@
+{
+  "name": "tp2-grupo8",
+  "version": "1.0.0",
+  "description": "Express server for static resources.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikedev93/is3-grupo8-nodeJS.git"
+  },
+  "author": "mikedev93",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikedev93/is3-grupo8-nodeJS/issues"
+  },
+  "homepage": "https://github.com/mikedev93/is3-grupo8-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "type": "module"
+}
